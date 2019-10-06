@@ -1,2 +1,2 @@
 # Email Activator by Shubh Kotwal
-Login and Signup Page with Email Activation
+PHP based Login and Signup Script with Email Activation
